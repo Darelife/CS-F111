@@ -1,0 +1,274 @@
+
+3
+1
+3
+4
+1
+39
+1487
+83_31_33.
+5
+4
+1
+5
+4
+2
+1
+
+---Expected Output---
+Enter employee id:
+Enter employee's salary:
+Enter Favorite Quote (each word is separated by '_' and the phrase ends with a '.'):
+Enter sick leaves taken by an employee for each month during the first 6 months
+Enter employee id:
+Enter employee's salary:
+Enter Favorite Quote (each word is separated by '_' and the phrase ends with a '.'):
+Enter sick leaves taken by an employee for each month during the first 6 months
+ID of the employee with the highest salary is: 81
+This program supports TWO operations for the employee with the highest salary:
+        1. Find the longest word in the employee's favorite quote,
+        2. Find the number of sick leaves that appears the most (i.e. mode) and the average number of sick leaves taken.
+
+Choose an operation (1 or 2): The longest word is: 94
+
+---Your Output---
+Enter employee id:
+Enter employee's salary:
+Enter Favorite Quote (each word is separated by '_' and the phrase ends with a '.'):
+Enter sick leaves taken by an employee for each month during the first 6 months
+Enter employee id:
+Enter employee's salary:
+Enter Favorite Quote (each word is separated by '_' and the phrase ends with a '.'):
+Enter sick leaves taken by an employee for each month during the first 6 months
+ID of the employee with the highest salary is: 81
+This program supports TWO operations for the employee with the highest salary:
+        1. Find the longest word in the employee's favorite quote,
+        2. Find the number of sick leaves that appears the most (i.e. mode) and the average number of sick leaves taken.
+
+Choose an operation (1 or 2): The longest word is: 94
+
+---Result: Passed---
+-----TEST CASE NUMBER 97-----
+---Given Input---
+23
+1696
+100_6_86.
+4
+5
+5
+3
+2
+3
+73
+3487
+63_38_72.
+1
+4
+3
+2
+4
+3
+1
+
+---Expected Output---
+Enter employee id:
+Enter employee's salary:
+Enter Favorite Quote (each word is separated by '_' and the phrase ends with a '.'):
+Enter sick leaves taken by an employee for each month during the first 6 months
+Enter employee id:
+Enter employee's salary:
+Enter Favorite Quote (each word is separated by '_' and the phrase ends with a '.'):
+Enter sick leaves taken by an employee for each month during the first 6 months
+ID of the employee with the highest salary is: 73
+This program supports TWO operations for the employee with the highest salary:
+        1. Find the longest word in the employee's favorite quote,
+        2. Find the number of sick leaves that appears the most (i.e. mode) and the average number of sick leaves taken.
+
+Choose an operation (1 or 2): The longest word is: 72
+
+---Your Output---
+Enter employee id:
+Enter employee's salary:
+Enter Favorite Quote (each word is separated by '_' and the phrase ends with a '.'):
+Enter sick leaves taken by an employee for each month during the first 6 months
+Enter employee id:
+Enter employee's salary:
+Enter Favorite Quote (each word is separated by '_' and the phrase ends with a '.'):
+Enter sick leaves taken by an employee for each month during the first 6 months
+ID of the employee with the highest salary is: 73
+This program supports TWO operations for the employee with the highest salary:
+        1. Find the longest word in the employee's favorite quote,
+        2. Find the number of sick leaves that appears the most (i.e. mode) and the average number of sick leaves taken.
+
+Choose an operation (1 or 2): The longest word is: 72
+
+---Result: Passed---
+-----TEST CASE NUMBER 98-----
+---Given Input---
+69
+9397
+80_16_6.
+2
+1
+2
+1
+5
+1
+98
+6140
+48_91_69.
+2
+3
+1
+4
+1
+1
+1
+
+---Expected Output---
+Enter employee id:
+Enter employee's salary:
+Enter Favorite Quote (each word is separated by '_' and the phrase ends with a '.'):
+Enter sick leaves taken by an employee for each month during the first 6 months
+Enter employee id:
+Enter employee's salary:
+Enter Favorite Quote (each word is separated by '_' and the phrase ends with a '.'):
+Enter sick leaves taken by an employee for each month during the first 6 months
+ID of the employee with the highest salary is: 69
+This program supports TWO operations for the employee with the highest salary:
+        1. Find the longest word in the employee's favorite quote,
+        2. Find the number of sick leaves that appears the most (i.e. mode) and the average number of sick leaves taken.
+
+Choose an operation (1 or 2): The longest word is: 16
+
+---Your Output---
+Enter employee id:
+Enter employee's salary:
+Enter Favorite Quote (each word is separated by '_' and the phrase ends with a '.'):
+Enter sick leaves taken by an employee for each month during the first 6 months
+Enter employee id:
+Enter employee's salary:
+Enter Favorite Quote (each word is separated by '_' and the phrase ends with a '.'):
+Enter sick leaves taken by an employee for each month during the first 6 months
+ID of the employee with the highest salary is: 69
+This program supports TWO operations for the employee with the highest salary:
+        1. Find the longest word in the employee's favorite quote,
+        2. Find the number of sick leaves that appears the most (i.e. mode) and the average number of sick leaves taken.
+
+Choose an operation (1 or 2): The longest word is: 16
+
+---Result: Passed---
+-----TEST CASE NUMBER 99-----
+---Given Input---
+33
+6196
+62_12_36.
+4
+3
+1
+5
+3
+2
+60
+4580
+5_31_8.
+5
+4
+2
+5
+3
+4
+1
+
+---Expected Output---
+Enter employee id:
+Enter employee's salary:
+Enter Favorite Quote (each word is separated by '_' and the phrase ends with a '.'):
+Enter sick leaves taken by an employee for each month during the first 6 months
+Enter employee id:
+Enter employee's salary:
+Enter Favorite Quote (each word is separated by '_' and the phrase ends with a '.'):
+Enter sick leaves taken by an employee for each month during the first 6 months
+ID of the employee with the highest salary is: 33
+This program supports TWO operations for the employee with the highest salary:
+        1. Find the longest word in the employee's favorite quote,
+        2. Find the number of sick leaves that appears the most (i.e. mode) and the average number of sick leaves taken.
+
+Choose an operation (1 or 2): The longest word is: 36
+
+---Your Output---
+Enter employee id:
+Enter employee's salary:
+Enter Favorite Quote (each word is separated by '_' and the phrase ends with a '.'):
+Enter sick leaves taken by an employee for each month during the first 6 months
+Enter employee id:
+Enter employee's salary:
+Enter Favorite Quote (each word is separated by '_' and the phrase ends with a '.'):
+Enter sick leaves taken by an employee for each month during the first 6 months
+ID of the employee with the highest salary is: 33
+This program supports TWO operations for the employee with the highest salary:
+        1. Find the longest word in the employee's favorite quote,
+        2. Find the number of sick leaves that appears the most (i.e. mode) and the average number of sick leaves taken.
+
+Choose an operation (1 or 2): The longest word is: 36
+
+---Result: Passed---
+-----TEST CASE NUMBER 100-----
+---Given Input---
+54
+3914
+67_94_18.
+1
+1
+3
+1
+2
+5
+60
+6804
+13_12_13.
+3
+2
+5
+4
+2
+4
+2
+
+---Expected Output---
+Enter employee id:
+Enter employee's salary:
+Enter Favorite Quote (each word is separated by '_' and the phrase ends with a '.'):
+Enter sick leaves taken by an employee for each month during the first 6 months
+Enter employee id:
+Enter employee's salary:
+Enter Favorite Quote (each word is separated by '_' and the phrase ends with a '.'):
+Enter sick leaves taken by an employee for each month during the first 6 months
+ID of the employee with the highest salary is: 60
+This program supports TWO operations for the employee with the highest salary:
+        1. Find the longest word in the employee's favorite quote,
+        2. Find the number of sick leaves that appears the most (i.e. mode) and the average number of sick leaves taken.
+
+Choose an operation (1 or 2): The number of sick leaves appearing the most: 4
+The average number of sick leaves: 2.2
+
+---Your Output---
+Enter employee id:
+Enter employee's salary:
+Enter Favorite Quote (each word is separated by '_' and the phrase ends with a '.'):
+Enter sick leaves taken by an employee for each month during the first 6 months
+Enter employee id:
+Enter employee's salary:
+Enter Favorite Quote (each word is separated by '_' and the phrase ends with a '.'):
+Enter sick leaves taken by an employee for each month during the first 6 months
+ID of the employee with the highest salary is: 60
+This program supports TWO operations for the employee with the highest salary:
+        1. Find the longest word in the employee's favorite quote,
+        2. Find the number of sick leaves that appears the most (i.e. mode) and the average number of sick leaves taken.
+
+Choose an operation (1 or 2): The number of sick leaves appearing the most: 4
+The average number of sick leaves: 3.3
+
+---Result: Failed---
+
+Final Score: 76 / 100

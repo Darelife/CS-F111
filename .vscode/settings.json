@@ -1,0 +1,12 @@
+{
+  "cmake.configureOnOpen": true,
+  "files.associations": {
+    "*.ejs": "html",
+    "string.h": "c",
+    "sstream": "c",
+    "regex": "c",
+    "random": "c",
+    "ratio": "c",
+    "list": "c"
+  }
+}
